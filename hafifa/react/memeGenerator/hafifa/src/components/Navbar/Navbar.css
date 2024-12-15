@@ -1,0 +1,14 @@
+#nav-body{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    width:100%;
+    padding: 20px;
+    font-size: large;
+    font-weight: bold;
+    background-color:#6c0471;
+}
+#nav-title{
+    margin-left: 10px;
+}

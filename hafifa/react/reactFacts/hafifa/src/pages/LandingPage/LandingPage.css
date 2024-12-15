@@ -1,0 +1,14 @@
+li::marker{
+color: #00d8ff;
+font-size: x-large;
+}
+.body{
+    background-color: #242424;
+    background-image: url('../../assets/react.svg');
+    background-repeat:no-repeat;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: center;
+    background-size:250px;
+    margin-left: 30px;
+}

@@ -1,0 +1,17 @@
+#nav-body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width:100%;
+    padding: 20px;
+    background-color:#ffffff;
+}
+#nav-title{
+    margin-left: 10px;
+    color:#000000;
+    font-weight: bold;
+    font-size: larger;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

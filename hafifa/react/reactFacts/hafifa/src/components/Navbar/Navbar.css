@@ -1,0 +1,13 @@
+#nav-body{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    width:100%;
+    padding: 20px;
+    background-color:#1e2020;
+}
+#nav-title{
+    margin-left: 10px;
+    color:#00d8ff;
+    font-weight: bold;
+}

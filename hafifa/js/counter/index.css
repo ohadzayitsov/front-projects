@@ -1,0 +1,24 @@
+#increment-btn{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    width: 100px;
+}
+#save-btn{
+    width: 100px;
+    cursor: pointer;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    border: none;
+    margin-top: 10px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
